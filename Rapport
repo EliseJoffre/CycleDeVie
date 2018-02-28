@@ -1,0 +1,11 @@
+Développement d'applications mobiles : ANDROID
+TP2 : Cycle de la vie d'une application
+
+Application :
+
+onCreate() : Elle est appelée lorsque l'activité est créée pour la première fois Elle sert à  effectuer l'ensemble de la configuration statique normale de l'activité (créer des vues, lier des données à des listes, etc). Elle peut également fournir un ensemble contenant l'état précédemment gelé de l'activité, s'il y en avait un.
+Dans le programme, elle est la première fonction à apparaitre car elle initialise l'activité car elle est la première étape du cycle de vie de l'application.
+
+onStart () : 
+
+Dans le programme, elle est la deuxième per
