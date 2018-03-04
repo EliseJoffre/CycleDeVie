@@ -1,0 +1,6 @@
+
+Š"squid:ClassVariableVisibilityCheck"RMake bouton a static final constant or non-public and provide accessors if needed.(ƒÕ›üÿÿÿÿ8´èŠÜ,
+]squid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è8î‚¸Ü,
+Hsquid:S1068"'Remove this unused "TAG" private field.(Ü£Ç×ùÿÿÿÿ8àéºÜ,
+tsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ü£Ç×ùÿÿÿÿ8Ö‰«Û,
+[squid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8àéºÜ,
